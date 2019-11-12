@@ -1,4 +1,5 @@
-#endpoint: ''endpoint: https://us1.prisma.sh/rsernesto1/TallerGraphql/dev
+#endpoint: ''
+endpoint: ''
 
 datamodel: datamodel.prisma
 generate:
